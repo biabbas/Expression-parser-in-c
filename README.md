@@ -10,3 +10,6 @@ with non-negative integers as operands.
 The ExpressionTreeRE3.c file is the most updated file.
 ExpressionTreeRE2.c file contains code that could solve an infix expression which has non-negative single digit(Max) integers.
 ExpressionTreeRE3.c file has code that could solve an infix expression which has non-negative 10 digit(Max) integers.
+
+The next Release ExpressionTreeRE4.c can solve literally any expression( including negatives).
+Please contact me for ExpressionTreeRE4..
