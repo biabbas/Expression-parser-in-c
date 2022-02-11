@@ -3,7 +3,7 @@
 #include <string.h>
 #include <stdlib.h>
 #include <math.h>
-/*typedef struct node{
+typedef struct node{
     char data;
     struct node *lp;
     struct node *rp;
@@ -99,18 +99,4 @@ else
       default:  return 0;
    }
 }
-/*/
-int main(){
-    int x=5;
-    while(x>-2){
-printf("Outside if\n");
-if(x>2){
-printf("inside if");
-x--;
-continue;
-}
-x--;
 
-    }
-    
-}
