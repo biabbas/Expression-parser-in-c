@@ -7,9 +7,11 @@ expressions where the leaf nodes represent the operands and the internal nodes
 represent the operators. Develop a program to evaluate such an expression tree
 with non-negative integers as operands.
 
+I created these file to demonstrate the solution in c.
+
 The ExpressionTreeRE3.c file is the most updated file.
 ExpressionTreeRE2.c file contains code that could solve an infix expression which has non-negative single digit(Max) integers.
 ExpressionTreeRE3.c file has code that could solve an infix expression which has non-negative 10 digit(Max) integers.
 
-The next Release ExpressionTreeRE4.c can solve literally any expression( including negatives).
-Please contact me for ExpressionTreeRE4..
+The last Release ExpressionTreeRE4.c can solve literally any expression( including negatives).
+
