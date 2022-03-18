@@ -1,5 +1,5 @@
 /******************************************************************************************
-*   Visit https://github.com/the10minoverview/ExpressionTreeRE.c for all file.             *
+*   Visit https://github.com/the10minoverview/ExpressionTreeRE.c for all files.             *
 *                                                                                          *
 *                                                                                          *
 *                                                                                          *
