@@ -1,4 +1,4 @@
-# ExpressionTreeRE3.c
+# ExpressionTreeRE.c
 A C program to solve an infix expression using Expression Tree.
 The below was the question in my lab manual.
 
